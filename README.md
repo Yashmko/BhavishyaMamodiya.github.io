@@ -90,7 +90,7 @@ Performed hands-on learning through legal training environments involving networ
 ## CERTIFICATIONS
 
 * TATA Cybersecurity Analyst Job Simulation – Forage
-* Advent of Cyber 2025 (Thm)
+* Advent of Cyber 2025 (THM)
 * Certified Red Team Operations Management (CRTOM)
 
 ## STRENGTHS
